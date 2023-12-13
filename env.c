@@ -62,7 +62,6 @@ int _mysetenv(info_t *info)
  * @info: represents a structure that holds possible arguments.
  * It's used to preserve a consistent function prototype.
  *  Return: Always returns a value of 0, consistently.
-
  */
 int _myunsetenv(info_t *info)
 {

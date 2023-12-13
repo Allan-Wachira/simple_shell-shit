@@ -4,7 +4,6 @@
  * is_cmd - checks whether a file is an executable command.
  * @path: refers to the file's location or directory path.
  * @info: is the information structure
-
  *
  * Return: 1 if true, 0 otherwise
  */
